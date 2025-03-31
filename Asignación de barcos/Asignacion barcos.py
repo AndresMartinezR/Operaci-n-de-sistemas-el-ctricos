@@ -1,7 +1,6 @@
 """
 Solucion problema de asignacion mediante la libreria CVXPY
 Andres Felipe Martinez Rodriguez
-1110592058
 """
 
 import cvxpy as cp
